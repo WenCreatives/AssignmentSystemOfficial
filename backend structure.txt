@@ -1,0 +1,20 @@
+backend/
+  ├── config/
+  │   └── db.js
+  ├── controllers/
+  │   ├── authController.js
+  │   ├── assignmentController.js
+  │   └── userController.js
+  ├── middleware/
+  │   ├── auth.js
+  │   └── role.js
+  ├── models/
+  │   ├── db.model.js
+  │   ├── user.model.js
+  │   └── assignment.model.js
+  ├── routes/
+  │   ├── auth.routes.js
+  │   ├── assignment.routes.js
+  │   └── user.routes.js
+  ├── .env
+  └── server.js

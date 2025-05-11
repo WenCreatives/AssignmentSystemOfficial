@@ -1,0 +1,28 @@
+frontend/
+  ├── public/
+  ├── src/
+  │   ├── components/
+  │   │   ├── AssignmentCard.js
+  │   │   ├── AssignmentForm.js
+  │   │   ├── AssignmentList.js
+  │   │   ├── AssignmentSubmission.js
+  │   │   ├── Header.js
+  │   │   ├── LoginForm.js
+  │   │   ├── SignupForm.js
+  │   │   ├── SubmissionList.js
+  │   │   └── UserList.js
+  │   ├── pages/
+  │   │   ├── AdminDashboard.js
+  │   │   ├── AssignmentDetail.js
+  │   │   ├── Home.js
+  │   │   ├── Login.js
+  │   │   ├── Signup.js
+  │   │   └── StudentDashboard.js
+  │   ├── services/
+  │   │   ├── auth.js
+  │   │   └── api.js
+  │   ├── App.js
+  │   ├── App.css
+  │   ├── index.js
+  │   └── index.css
+  └── package.json
